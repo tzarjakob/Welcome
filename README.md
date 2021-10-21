@@ -1,4 +1,4 @@
-Hello everyone, I am Giacomo Mazzucchi. 
+Hello everyone and welcome to another Github account, or something.
 
-I am CS student and the co-founder of the [Money 4.0](https://www.money4point.com/ "Money 4.0 Home") project.
+And, in case you are smart, don't forget to take a look to the [Money 4.0](https://www.money4point.com/ "Money 4.0 Home") project.
 
